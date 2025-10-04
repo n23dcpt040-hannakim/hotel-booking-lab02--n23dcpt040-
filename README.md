@@ -35,11 +35,6 @@ Thiết kế Use Case, Sequence Diagram và ERD cho hệ thống quản lý đ�
 | 6 | **US-06: Revenue Reports (Manager)** | `git commit -m "US-06 Add: Generate revenue report by date range. HOTEL-06"` | HOTEL-06 | Báo cáo doanh thu theo thời gian, có xuất file CSV. |
 | 7 | **US-07: Housekeeping Tasks** | `git commit -m "US-07 Add: Housekeeping task management and status update. HOTEL-07"` | HOTEL-07 | Quản lý công việc dọn phòng, cập nhật trạng thái hoàn thành. |
 
----
-
-> **Lưu ý:**  
-> Khi commit thật, thay mã `HOTEL-01` bằng mã Jira thực tế trong project của bạn (VD: `HBS-01`, `BK-01`, `CNPM-01`...).  
-> Các commit này giúp Jira tự động liên kết với issue tương ứng nếu bạn đã bật Smart Commit, hoặc giáo viên có thể kiểm tra trực tiếp trong lịch sử repo.
 
 
 
