@@ -4,14 +4,14 @@
 ## Mục tiêu
 Thiết kế Use Case, Sequence Diagram và ERD cho hệ thống quản lý đặt phòng khách sạn.
 
-## Nộp gồm
+## Nội dung repo
 - usecase-diagram.puml / usecase-diagram.png
 - usecase-descriptions.md
 - sequence_booking.puml / sequence_booking.png
 - sequence_checkin_checkout.puml / sequence_checkin_checkout.png
 - erd.puml / schema.sql
 - jira-backlog.md
-- notes.md
+- Readme.md: file này
 
 ## Hướng dẫn mở & export PlantUML
 - Cài extension PlantUML cho VSCode hoặc dùng web service https://www.plantuml.com/plantuml.
